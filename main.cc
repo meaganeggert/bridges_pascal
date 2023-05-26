@@ -36,7 +36,7 @@ long long int  pascal(int row, int col, int width,  vector<vector<long long int>
 int main() {
 
     //Bridges
-    Bridges *bridges =  new Bridges(3737, "meaganeggert", "1483739998773");
+    Bridges *bridges =  new Bridges(/*YOURASSSIGNMENT#*/, /*"YOURNAME"*/, /*"YOURNUMBER"*/);
     bridges->setTitle("Pascal Art");
     bridges->setDescription("A visualization of Pascal's triangle");
 
